@@ -18,3 +18,11 @@ In conclusion, guest:guest@localhost:5672 instructs your client library to open 
 Simulation slow subscriber:
 
 ![alt text](image.png)
+
+in the subscriber console after 3 subscribers:
+
+Is is faster because  instead of 1, we now have 3 queues that can be spread the waiting time.
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)

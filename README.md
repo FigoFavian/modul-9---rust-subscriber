@@ -14,3 +14,4 @@ c. Host (localhost) the network address or hostname where the broker is running.
 d. Port (5672) the TCP port on which the AMQP service is listening 
 
 In conclusion, guest:guest@localhost:5672 instructs your client library to open a connection to the AMQP broker at 127.0.0.1 on port 5672 and to authenticate using the username “guest” and password “guest.”
+![alt text](image.png)
